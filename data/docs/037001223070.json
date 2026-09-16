@@ -1,0 +1,28 @@
+{
+ "ref": "037001223070",
+ "refDisplay": "0370 01 223070",
+ "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F5C",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F5C",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F5C",
+   "fctId": "FCT0008"
+  }
+ ]
+}

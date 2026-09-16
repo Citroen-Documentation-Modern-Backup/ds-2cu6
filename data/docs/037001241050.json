@@ -1,0 +1,28 @@
+{
+ "ref": "037001241050",
+ "refDisplay": "0370 01 241050",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F5C",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "ref": "037002212047A",
+ "refDisplay": "0370 02 212047A",
+ "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F6V",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F6V",
+   "fctId": "FCT0013"
+  }
+ ]
+}

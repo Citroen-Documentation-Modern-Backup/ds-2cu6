@@ -1,0 +1,90 @@
+{
+ "ref": "B3EB08P0",
+ "refDisplay": "B3EB08P0",
+ "title": "Caractéristiques : direction",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0FB5",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F5C",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0FB5",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F5C",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0FB5",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F5C",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  }
+ ]
+}

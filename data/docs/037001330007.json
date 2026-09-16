@@ -1,0 +1,63 @@
+{
+ "ref": "037001330007",
+ "refDisplay": "0370 01 330007",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE3 ET CP 15 X 74 OU BVM BE3R ET CP 15 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F5C",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F5C",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2V",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F5C",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F2V",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CU606131973",
+ "refDisplay": "2CU6 0 613 1973",
+ "title": "CAPTEUR VITESSE ENTREE BVA",
+ "nature": "",
+ "applicability": "(43MC) JUMPY FOURGON VITRE COURT TYPE 800 INJECTION EW10J4 BVA AL4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0017"
+  }
+ ]
+}

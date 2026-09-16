@@ -1,0 +1,23 @@
+{
+ "ref": "037002140086A",
+ "refDisplay": "0370 02 140086A",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7C",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "ref": "037005501195",
+ "refDisplay": "0370 05 501195",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "CHARGE UTILE 900 KG JUSQU’A OPR 07846",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F2J",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0308"
+  }
+ ]
+}

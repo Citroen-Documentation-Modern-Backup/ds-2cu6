@@ -1,0 +1,28 @@
+{
+ "ref": "037006640820",
+ "refDisplay": "0370 06 640820",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION SIMPLE JUSQU’A OPR 07265",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0FB5",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0FB5",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0FB5",
+   "fctId": "FCT0347"
+  }
+ ]
+}

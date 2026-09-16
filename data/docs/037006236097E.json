@@ -1,0 +1,48 @@
+{
+ "ref": "037006236097E",
+ "refDisplay": "0370 06 236097E",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": "BOITIER SORTIE EAU ALUMINIUM JUSQU’A OPR 09267",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F7M",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7M",
+   "fctId": "FCT0009"
+  }
+ ]
+}

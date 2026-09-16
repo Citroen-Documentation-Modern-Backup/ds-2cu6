@@ -1,0 +1,58 @@
+{
+ "ref": "037003440520",
+ "refDisplay": "0370 03 440520",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE ET CONDUITE A GAUCHE ET REFRIGERATION DEPUIS OPR 07145",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F2J",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0339"
+  }
+ ]
+}

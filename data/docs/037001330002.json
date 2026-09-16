@@ -1,0 +1,28 @@
+{
+ "ref": "037001330002",
+ "refDisplay": "0370 01 330002",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE3R ET CP 15 X 76 OU BVM BE3 ET CP 15 X 76",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  }
+ ]
+}

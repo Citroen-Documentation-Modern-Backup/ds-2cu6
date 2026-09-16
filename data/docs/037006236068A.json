@@ -1,0 +1,53 @@
+{
+ "ref": "037006236068A",
+ "refDisplay": "0370 06 236068A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F9U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9U",
+   "fctId": "FCT0009"
+  }
+ ]
+}

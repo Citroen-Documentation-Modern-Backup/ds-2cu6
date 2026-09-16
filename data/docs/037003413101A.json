@@ -1,0 +1,28 @@
+{
+ "ref": "037003413101A",
+ "refDisplay": "0370 03 413101A",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 07905",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F5C",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F5C",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F5C",
+   "fctId": "FCT0026"
+  }
+ ]
+}

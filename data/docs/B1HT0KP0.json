@@ -1,0 +1,60 @@
+{
+ "ref": "B1HT0KP0",
+ "refDisplay": "B1HT0KP0",
+ "title": "Évolution  : porte-injecteurs diesel ",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 8743",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F7U",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F7U",
+   "fctId": "FCT0010"
+  }
+ ]
+}

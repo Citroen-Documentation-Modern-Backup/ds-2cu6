@@ -1,0 +1,33 @@
+{
+ "ref": "037002532020A",
+ "refDisplay": "0370 02 532020A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F6V",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F6V",
+   "fctId": "FCT0303"
+  }
+ ]
+}

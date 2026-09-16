@@ -1,0 +1,83 @@
+{
+ "ref": "037006640827A",
+ "refDisplay": "0370 06 640827A",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION ET BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F2V",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7H",
+   "fctId": "FCT0347"
+  }
+ ]
+}

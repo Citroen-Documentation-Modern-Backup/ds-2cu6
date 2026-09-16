@@ -1,0 +1,58 @@
+{
+ "ref": "037002140038",
+ "refDisplay": "0370 02 140038",
+ "title": "DETAIL POMPE INJECTION ELECTROVANNE",
+ "nature": "",
+ "applicability": "DEPOL US 84 (MOTEUR) OU DEPOL CEE 19-5 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0010"
+  }
+ ]
+}

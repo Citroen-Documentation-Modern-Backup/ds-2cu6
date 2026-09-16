@@ -1,0 +1,53 @@
+{
+ "ref": "037007743720",
+ "refDisplay": "0370 07 743720",
+ "title": "BAS DE CAISSE ET LONGERON",
+ "nature": "",
+ "applicability": "U64 JUSQU’A OPR 10036",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F2V",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7H",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7M",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F7E",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F7U",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9Y",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9U",
+   "fctId": "FCT0127"
+  }
+ ]
+}

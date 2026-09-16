@@ -1,0 +1,53 @@
+{
+ "ref": "037007746646B",
+ "refDisplay": "0370 07 746646B",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE GAUCHE",
+ "nature": "",
+ "applicability": "U64 JUSQU’A OPR 10036 SAUF PORTE LAT G COULISSANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F2V",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7H",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7U",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F9Y",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F9U",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7M",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7C",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0129"
+  }
+ ]
+}

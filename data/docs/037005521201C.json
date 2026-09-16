@@ -1,0 +1,28 @@
+{
+ "ref": "037005521201C",
+ "refDisplay": "0370 05 521201C",
+ "title": "TRANSMISSION COMPTEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 08211",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0FB5",
+   "fctId": "FCT0213"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0FB5",
+   "fctId": "FCT0213"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0FB5",
+   "fctId": "FCT0213"
+  }
+ ]
+}

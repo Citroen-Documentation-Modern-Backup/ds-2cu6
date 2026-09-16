@@ -1,0 +1,33 @@
+{
+ "ref": "037001222010A",
+ "refDisplay": "0370 01 222010A",
+ "title": "POMPE A HUILE - CHAINE - CREPINE",
+ "nature": "",
+ "applicability": " JUSQU’A MOTEUR 0870673",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F6V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F6V",
+   "fctId": "FCT0008"
+  }
+ ]
+}

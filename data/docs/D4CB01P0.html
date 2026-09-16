@@ -1,0 +1,47 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">D4CB01P0</td><td class="title">Fonction  : Antidémarrage à transpondeur</td></tr></tbody></table></div><div id="appl" class="section_appl">TRANSPONDEUR DEPUIS OPR 7665</div><div class="section_corps" id="content"><div class="cha1"><div class="sti1">1. Généralités</div></div>
+<div class="tli">Le système d’antidémarrage à transpondeur permet d’immobiliser le véhicule par verrouillage des éléments suivants : 
+<ul>
+<li> calculateur d’injection (moteur essence)</li>
+<li>Module électronique de pompe d’injection (moteur diesel)</li>
+</ul>
+</div>
+<div class="par">L’authenticité des clés est vérifiée à chaque mise du contact.</div><div class="par">Lorsque les clés sont reconnues par le module de contrôle, celui-ci déverrouille l’ECM.</div><div class="par">Le système d’antidémarrage à transpondeur remplace, dans son principe, le clavier "ADC" monté précédemment sur les véhicules CITROËN, et évite de composer le code à       4 chiffres sur le clavier "ADC".</div><div class="par">Le système d’antidémarrage à transpondeur répond aux différentes normes et directives Européennes en matière de protection contre le vol.</div><div class="par">En FRANCE, le système d’antidémarrage à transpondeur est classé "    7 clés" par les assurances.</div><div class="rem"><div class="not"><span class="maj">NOTA</span> : ECM : électronique de contrôle moteur. </div></div>
+<div class="cha1"><div class="sti1">2. Synoptique</div></div>
+<div id="d4cp00ap_1_div"><div class="legende"></div><table class="imgTable"><tbody><tr><td class="imgTable" colspan="2"><div><img src="img/AC/img/inf_inc/ap/d4cp/d4cp00ap.avif" class="image" height="720" width="615" id="d4cp00ap_1"></div></td></tr><tr><td class="imgTable"><span class="fig">Figure : <span class="img_numfich">d4cp00ap</span></span></td><td align="right" class="imgTable"><span class="imgNavbar"><a href="img/AC/img/inf_inc/ap/d4cp/d4cp00ap.avif" data-figure="1"><img id="d4cp00ap_1_FullScreen" border="0" width="20" height="20" alt="Afficher l'image en plein écran" src="img/images/Document/fullscreen.avif"></a></span></td></tr></tbody></table></div><div class="par">     (1) + permanent + après contact et masse.</div><div class="par">  (2) Prise diagnostic centralisée  (16 voies).</div><div class="par">  (3) Électronique de contrôle moteur (ECM).</div><div class="par">  (4) Voyant transpondeur (sur combiné).</div><div class="par">  (5) Module analogique du transpondeur.</div><div class="par">  (6) Transpondeur intégré.</div><div class="par">  (7) Contacteur porte conducteur.</div><div class="par">  (8221) Module de contrôle .</div><div class="cha1"><div class="sti1">3. Principe de fonctionnement</div></div>
+<div id="d4cp00bd_2_div"><div class="legende"></div><table class="imgTable"><tbody><tr><td class="imgTable" colspan="2"><div><img src="img/AC/img/inf_inc/bd/d4cp/d4cp00bd.avif" class="image" height="360" width="615" id="d4cp00bd_2"></div></td></tr><tr><td class="imgTable"><span class="fig">Figure : <span class="img_numfich">d4cp00bd</span></span></td><td align="right" class="imgTable"><span class="imgNavbar"><a href="img/AC/img/inf_inc/bd/d4cp/d4cp00bd.avif" data-figure="1"><img id="d4cp00bd_2_FullScreen" border="0" width="20" height="20" alt="Afficher l'image en plein écran" src="img/images/Document/fullscreen.avif"></a></span></td></tr></tbody></table></div><div class="par">   (2) Prise diagnostic centralisée .</div><div class="par">  (4) Voyant transpondeur (sur combiné).</div><div class="par">  (5) Module analogique du transpondeur.</div><div class="par">  (6) Transpondeur intégré.</div><div class="par">  (7) Contacteur porte conducteur.</div><div class="par">  (8)  calculateur d’injection (essence).</div><div class="par">  (9) Pompe d’injection diesel .</div><div class="par">  (10) Relais double injection  (alimentation du calculateur moteur).</div><div class="par">  (8221) Module de contrôle .</div><div class="cha2"><div class="sti2">3.1. Déverrouillage du calculateur d’injection ou du module de pompe à injection diesel (ECM)</div></div>
+<div class="tli">Mettre la clé de contact en position "+APC" : 
+<ul>
+<li>Le voyant transpondeur ( 4) s’allume</li>
+<li>Le système lit le code du transpondeur dans la clé</li>
+</ul>
+</div>
+<div class="tli">Code reconnu avec ECM déverrouillé : 
+<ul>
+<li>Le voyant transpondeur (  4) s’éteint</li>
+<li>Le démarrage moteur est possible</li>
+</ul>
+</div>
+<div class="tli">Code reconnu avec ECM verrouillé : 
+<ul>
+<li>L’ECM informe le module de contrôle de son état</li>
+<li>Le module de contrôle envoie l’ordre de déverrouillage à l’ECM</li>
+<li>L’ECM se déverrouille</li>
+<li>L’ECM répond en renvoyant son nouvel état</li>
+<li>Le voyant transpondeur (  4) s’éteint</li>
+<li>Le démarrage moteur est possible</li>
+</ul>
+</div>
+<div class="tli">Code non reconnu : 
+<ul>
+<li>Le voyant transpondeur (  4) clignote</li>
+<li>Le démarrage du moteur est impossible</li>
+</ul>
+</div>
+<div class="cha2"><div class="sti2">3.2. Verrouillage du calculateur d’injection ou du module de pompe à injection diesel (ECM)</div></div>
+<div class="par">La procédure de verrouillage est automatiquement lancée par le module de contrôle.</div><div class="tli">Si le contact est coupé : 
+<ul>
+<li>Le déverrouillage s’effectue    10 secondes après détection de l’ouverture porte conducteur</li>
+<li>Le verrouillage s’effectue après 5 minutes en l’absence de détection porte conducteur ouverte</li>
+</ul>
+</div>
+</div>

@@ -1,0 +1,53 @@
+{
+ "ref": "037001312071D",
+ "refDisplay": "0370 01 312071D",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM ML5C DEPUIS OPR 10446",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F9U",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9U",
+   "fctId": "FCT0016"
+  }
+ ]
+}

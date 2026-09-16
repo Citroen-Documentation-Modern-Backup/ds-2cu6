@@ -1,0 +1,23 @@
+{
+ "ref": "037001223038A",
+ "refDisplay": "0370 01 223038A",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7C",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7C",
+   "fctId": "FCT0008"
+  }
+ ]
+}

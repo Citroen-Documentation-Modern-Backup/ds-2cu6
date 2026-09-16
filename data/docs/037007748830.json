@@ -1,0 +1,53 @@
+{
+ "ref": "037007748830",
+ "refDisplay": "0370 07 748830",
+ "title": "SOUBASSEMENT AR PARTIE INFERIEURE",
+ "nature": "",
+ "applicability": "U64 JUSQU’A OPR 10036",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F2V",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7H",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7M",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F2J",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F7E",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F7U",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9Y",
+   "fctId": "FCT0120"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9U",
+   "fctId": "FCT0120"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "ref": "037001223037B",
+ "refDisplay": "0370 01 223037B",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION DEPUIS OPR 08578 JUSQU’A OPR 09156",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTN&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWN&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F2V",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRN&B0F=B0F7H",
+   "fctId": "FCT0008"
+  }
+ ]
+}

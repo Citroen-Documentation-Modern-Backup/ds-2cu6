@@ -1,0 +1,53 @@
+{
+ "ref": "037006175687L",
+ "refDisplay": "0370 06 175687L",
+ "title": "RECYCLAGE GAZ ECHAPPEMENT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 09702",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTV&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTW&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWV&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWW&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRV&B0F=B0F9U",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRW&B0F=B0F9U",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CU606001908",
+ "refDisplay": "2CU6 0 600 1908",
+ "title": "JOINT DE CARTER D’HUILE",
+ "nature": "",
+ "applicability": "(43MC) JUMPY FOURGON VITRE COURT TYPE 800 INJECTION EW10J4 BVA AL4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0017"
+  }
+ ]
+}

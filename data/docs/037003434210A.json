@@ -1,0 +1,33 @@
+{
+ "ref": "037003434210A",
+ "refDisplay": "0370 03 434210A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "U64 DEPUIS OPR 08705 JUSQU’A OPR 10036",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F6V",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F6V",
+   "fctId": "FCT0027"
+  }
+ ]
+}

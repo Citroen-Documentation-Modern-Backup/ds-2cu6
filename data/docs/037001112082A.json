@@ -1,0 +1,23 @@
+{
+ "ref": "037001112082A",
+ "refDisplay": "0370 01 112082A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F7C",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F7C",
+   "fctId": "FCT0006"
+  }
+ ]
+}

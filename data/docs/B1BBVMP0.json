@@ -1,0 +1,155 @@
+{
+ "ref": "B1BBVMP0",
+ "refDisplay": "B1BBVMP0",
+ "title": "Couples de serrage : moteurs EW10J4 - EW10J4S - EW10A - EW10D",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DA3&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DC5&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA3&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA3&B0F=B0F6W",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA3&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA4&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA5&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DC5&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DA5&B0F=B0F6U",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DA5&B0F=B0F7N",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DA5&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DC5&B0F=B0F6U",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DC5&B0F=B0F7N",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DC5&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DC5&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CU6",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CVV",
+   "variantKey": "B0D=B0DAF&B0F=B0FAT",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DVT&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0F6V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0F6V",
+   "fctId": "FCT0049"
+  }
+ ]
+}

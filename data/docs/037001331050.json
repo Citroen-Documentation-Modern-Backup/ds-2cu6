@@ -1,0 +1,28 @@
+{
+ "ref": "037001331050",
+ "refDisplay": "0370 01 331050",
+ "title": "FIXATIONS CARTER BVM",
+ "nature": "",
+ "applicability": "BVM BE3R DEPUIS DATE 19980903 OU BVM BE3 DEPUIS DATE 19950601 JUSQU’A BOITE 9999999",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DTA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DWA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU6",
+   "variantKey": "B0D=B0DRA&B0F=B0FB5",
+   "fctId": "FCT0017"
+  }
+ ]
+}
